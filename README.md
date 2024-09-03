@@ -1,1 +1,1 @@
-# LaravelPHP
+# SmartyPHP
